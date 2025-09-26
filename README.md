@@ -27,12 +27,12 @@ Tekanan darah tinggi → berhubungan dengan Sleep Apnea.
 Langkah harian rendah (< 4000) → berasosiasi dengan gangguan tidur.
 
 3. Performa Model Klasifikasi:
-Model	Akurasi	Precision	Recall	F1-Score
-Logistic Regression	86%	0.85	0.84	0.84
-Random Forest	92%	0.91	0.92	0.91
-Naive Bayes	78%	0.77	0.76	0.76
-SVM	88%	0.87	0.86	0.87
-KNN	81%	0.80	0.79	0.79
+- Model	Akurasi	Precision	Recall	F1-Score
+- Logistic Regression	86%	0.85	0.84	0.84
+- Random Forest	92%	0.91	0.92	0.91
+- Naive Bayes	78%	0.77	0.76	0.76
+- SVM	88%	0.87	0.86	0.87
+- KNN	81%	0.80	0.79	0.79
 
 🔎 Kesimpulan: Random Forest menghasilkan performa terbaik dengan akurasi 92%.
 
