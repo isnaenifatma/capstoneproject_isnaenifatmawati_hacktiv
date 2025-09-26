@@ -1,4 +1,5 @@
 💤 Sleep Disorder Classification using IBM Granite Models
+
 📌 Project Overview
 Gangguan tidur seperti Insomnia dan Sleep Apnea merupakan masalah kesehatan yang berdampak pada kualitas hidup, produktivitas, serta risiko penyakit kronis. Capstone Project untuk Hacktiv8 – Analisis dan Prediksi Sleep Disorder menggunakan Machine Learning. Proyek ini mencakup data preprocessing, eksplorasi data, visualisasi insight, penerapan beberapa algoritma klasifikasi (Logistic Regression, Random Forest, Naive Bayes, SVM, KNN), serta evaluasi performa model.
 
@@ -36,6 +37,7 @@ KNN	81%	0.80	0.79	0.79
 🔎 Kesimpulan: Random Forest menghasilkan performa terbaik dengan akurasi 92%.
 
 🤖 AI Support Explanation (IBM Granite Watsonx)
+
 Dalam project ini, selain implementasi Machine Learning tradisional di Python, penulis juga memanfaatkan IBM Watsonx.ai dengan Granite Models untuk mendukung:
 - Eksperimen prediksi berbasis LLM (Large Language Model): memberikan insight tambahan dari dataset.
 - Generasi penjelasan otomatis (AI-assisted reporting): membantu membuat interpretasi hasil analisis lebih mudah dipahami.
